@@ -1,6 +1,5 @@
 ARG SEARCH_TAG
-# FROM quay.io/alfresco/search-services:${SEARCH_TAG}
-FROM searchservices:develop
+FROM quay.io/alfresco/search-services:${SEARCH_TAG}
 
 # COMMON
 ARG ALFRESCO_HOSTNAME
