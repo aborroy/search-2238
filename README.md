@@ -106,4 +106,4 @@ Check that every Shard is available in the Web Console.
 
 http://127.0.0.1:8080/alfresco/s/enterprise/admin/admin-flocs
 
-![expected result](https://github.com/Alfresco/search-2238/expected-result.png?raw=true)
+![expected result](https://github.com/Alfresco/search-2238/blob/master/expected-result.png?raw=true)
